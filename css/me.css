@@ -1,0 +1,173 @@
+.imgbox{
+	width: 745px;
+	height: 400px;
+	background-color: white;
+	margin-top: 80px;
+	
+}
+.yuan{
+	width: 80px;
+	height: 80px;
+	border-radius: 50% 50%;
+	background-color: white;
+	float: left;
+}
+.boxs{
+	width: 745px;
+	height: 80px;
+	background-color: white;
+}
+
+input{
+	border: 1px solid white;
+}
+.hylr11{
+	display: flex;
+}
+.top11{
+				width: 120px;
+				font-size: 20px;
+			}
+			.rediantop1{
+				
+				padding-top: 50px;
+			}
+			.jdtImg{
+				height: 150px;
+			}
+			.box2{
+				width: 745px;
+				display: flex;
+				justify-content: space-between;
+				background-color: white;
+			}
+			
+	.img10{
+		margin-top: 130px;
+		width: 745px;
+		height:200px;
+		background-color: white;
+border-radius: 20px;	
+}
+
+.box100{
+	margin-top: 10px;
+	width: 745px;
+	height: 50px;
+	display: flex;
+	
+}
+.box100 div{
+	width: 120px;
+	height: 50px;
+	background-color: white;
+	border-radius: 10px;
+	
+}
+.daimgww{
+	margin-top: 10px;
+	width: 745px;
+	height: 300px;
+	border-radius: 20px;	
+	background-color: white;
+	
+}
+.tupian{
+	margin-top: 10px;
+	width: 700px;
+	height: 30px;
+	border-radius: 5px;
+	background-color: white;
+	display: flex;
+	
+	
+	
+}
+
+.tupian div{
+	margin-top: 3px;
+	text-align: center;
+	width: 340px;
+	height: 25px;
+	border-radius: 5px;
+	background-color: white;
+	
+	
+}
+.liubai{
+	margin-top: 10px;
+	width: 745px;
+	height: 400px;
+	
+	
+}
+.liubaidiv{
+	
+	width: 745px;
+	height: 30px;
+	display: flex;
+}
+.liubaidiv div{
+	width: 120px;
+	height: 30px;
+	text-align: center;
+	
+}
+.edianlmg{
+	width: 80px;
+	height: 80px;
+	background-position: center;
+	background-size: cover;
+	background-image: url("../cs/tb.jpg");
+	background-clip:padding-box;
+	border-radius: 50% 50%;
+}
+.ssss{
+	
+}
+.ssss img {
+	margin-left: 10px;
+	width: 30px;
+	height: 30px;
+}
+.ssss div{
+	width: 120px;
+	margin: 0;
+	background-color: white;
+	color: white;
+}
+
+.hylr11tp,.hylr11tp2{
+	margin: 0;
+	margin-top: 20px;
+	width: 70px;
+	height: 60px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: white;
+	
+}
+.hylr11tp{
+	background-image: url("../cs/333.jpg");
+}
+.hylr11tp2{
+	background-image: url("../cs/222.jpg");
+	
+	
+}
+.box100 img{
+	width: 120px;
+	height: 50px;
+	border-radius: 10px;
+}
+.lll{
+	background-image: url("../cs/jj.jpg");
+	width: 200px;
+	height: 200px;
+	background-size: cover;
+	
+}
+.img10 img{
+	width: 745px;
+	height:200px;
+}

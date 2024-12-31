@@ -1,0 +1,355 @@
+*{
+margin: 0 auto;
+	padding: 0;
+	
+}
+#alert {
+	font-size: 3rem;
+	text-align: center;
+	display: none;
+}
+
+@media screen and (min-width: 800px) {
+	#alert {
+		display: block;
+	}
+
+	#content {
+		display: none;
+
+	}
+
+
+
+}
+.lr{
+	padding-left: 10px;
+	
+}
+.top1{
+	width: 745px;
+	
+	height: 40px;
+	background-color: white;
+	position: fixed;
+	height: 60px;
+	
+	
+	
+}
+.top11,.top12{
+	margin: 10px;
+	width: 60px;
+	height: 40px;
+	float: left;
+	
+}
+.top13,.top14{
+	margin: 10px;
+	width: 50px;
+	height: 50px;
+	float: right;
+	
+	
+}
+.top13 img{
+	width: 30px;
+	height: 30px;
+	
+	}
+	
+	
+
+.top14 img{
+	width: 30px;
+	height: 30px;
+	
+}
+.end{
+	
+	width: 745px;
+	height: 80px;
+	display: flex;
+	background-color: white;
+	justify-content: space-around;
+	position: fixed;
+	bottom: 0px;
+}
+.end11,.end12,.end13,.end14{
+	width: 100px;
+	
+	background-color: white;
+	text-align: center;
+}
+.end16{
+	margin-top: 5px;
+	width: 125px;
+	height: 40px;
+	background-color: white;
+	border-radius: 10px;
+	text-align: center;
+	
+}
+.hylr{	
+	margin-right: 40px;
+	padding-top: 70px;
+	
+}
+.hylr99{
+	
+	margin-right: 40px;
+	margin-top: 10px;
+	
+}
+.hylrp{
+	font-size: 30px;
+	font-weight: bold;
+	
+}
+
+
+.hylr1{
+	width: 745px;
+	height: 400px;
+	background-color: white;
+	
+	
+	
+	
+}
+.hylr11{
+	
+	width: 745px;
+	height: 100px;
+	background-color: white;
+	float: left;
+	
+}
+.hylr11 p{
+	font-size: 16px;
+	color: gray;
+	
+	
+}
+
+.hylrimg{
+	float: left;
+	width: 100px;
+	height: 100px;
+	background-color: antiquewhite;
+	margin-left: 10px;
+	border-radius: 50% 50%;
+	
+} 
+a{
+	text-decoration: none;
+	color:black;
+}
+
+.top1 a:hover{
+	color: coral;
+	font-weight: bold;
+	
+}
+.endp{
+	margin-top: 0px;
+}
+.end img{
+	margin: 5px;
+	width: 50px;
+	height: 40px;
+	
+}
+.endppp{
+	
+
+	font-size: 30px;
+	font-weight: bold;
+
+}
+.tt{
+	margin-left: 20px;
+	margin-top: 5px;
+	text-align: left;
+	font-size: 20px;
+}
+.rediantop1{
+	padding-top: 80px;
+	display: flex;
+	justify-content: space-around;
+	
+}
+.kzcengter{
+	margin-top: 30px;
+	margin-right: 30px;
+}
+.top11 p{
+	font-size: 20px;
+	
+}
+.jdtImg{
+
+	motion: none;
+	width: 745px;
+	height: 300px;
+	background-image: none;
+   background-size: cover;
+	   background-position: center;
+	   background-color: antiquewhite;
+	
+}
+
+.kzcengterDiv{
+	float:left;
+	margin-top: 10px;
+	width: 745px;
+	height: 200px;
+	background-color: aquamarine;
+}	
+
+.kzcengterDivImg{
+	margin-right: 5px;
+	margin-top: 5px;
+	float:right;
+	width: 300px;
+	height: 190px;
+	
+	border: 2px solid black;
+	border-radius: 20px;
+	background-image: none;
+	background-size: cover;
+		   background-position: center;
+	
+}
+.kzcengter11{
+	
+}
+.wenzi{
+	margin: 0px;
+	width: 400px;
+	background-color: antiquewhite;
+}
+.nei {
+	margin-left: 10px;
+	margin-top: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	
+	justify-content: space-around;
+	
+	width:745px ;
+	height:250px ;
+}
+.nei div{
+	text-align: center;
+	font-size: 20px;
+	background-color: gainsboro;
+	border-radius: 20px;
+	width: 160px;
+	height: 100px;
+	
+}
+.nei div p{
+	margin-top: 15px;
+}
+.yxkbody{
+	width: 745px;
+	display: flex;
+	flex-wrap: wrap;
+	
+	
+	
+}
+.yxkbody div{
+	margin-top: 10px;
+	width: 300px;
+	height: 200px;
+	background-color: antiquewhite;
+	border-radius: 20px;
+}
+.yxkbody div img{
+	width: 300px;
+	height:180px ;
+	border-radius: 20px;
+}
+.top110{
+	width: 745px;
+	
+}
+.box{
+	width: 160px;
+	height: 50px;
+				display: flex;
+				margin: 0px;
+				padding: 0px;
+				
+}
+			.box div{
+				margin: 5px;
+				width: 50px;
+				height: 50px;
+				background-color: aqua;
+			}
+.mm{
+	padding-right:  100px;
+	
+	}
+	.ooo{
+	
+	width: 745px;
+	height: 200px;
+	background-color: red;
+	}
+	.box2{
+		width: 600px;
+		display: flex;
+	}
+	.box2 div{
+		width: 80px;
+		height: 60px;
+		background-color: gainsboro;
+		
+	}
+	.boxp{
+		text-align: center;
+		font-size: 30px;
+		
+	}
+	.boxp2{
+		text-align: center;
+		color: gray;
+	}
+	.hylr11p{
+	
+	width: 745px;
+	height: 100px;
+	background-color: aquamarine;
+	float: left;
+	}
+	.hylr11p .hylr11 div{
+		width: 300px;
+		height: 100px;
+		background-color: bisque;
+		border-radius: 10px;
+		
+		
+	}
+	.daimg{
+		
+		width: 745px;
+		height: 400px;
+		border-radius: 10px;
+		border: 2px solid black;
+	}
+	.
+	{
+		
+		padding-left: 0;
+		
+	}
+	.hylr999{
+		margin-top: 30px;
+	}
+	.liubai{
+		height: 300px;
+	}

@@ -1,0 +1,81 @@
+.jdtImg{
+	background-image: url("../img/22/5.jpg");
+}
+.biaotiyx{
+	font-size: 22px;
+	
+}
+.dadahz{
+	width: 120px;
+	height: 30px;
+	background-color: gray;
+}
+.zuofud{
+	width: 60px;
+	height: 30px;
+	background-color: gray;
+	float: left;
+}
+.youfudong{
+	width: 60px;
+	height: 30px;
+	background-color: gray;
+	float: right;
+}
+.youfudong2{
+	width: 60px;
+	height: 30px;
+	background-color: gray;
+	float: right;
+}
+.chaoji{
+	width: 120px;
+	height: 30px;
+}
+.yxkbody111{
+	margin-top: 5px;
+	display: flex;
+}
+.boxp22{
+	margin: 0;
+	width: 120px;
+	background-color: gainsboro;
+	height: 30px;
+	
+}
+.boxp33,.boxp333    
+
+{
+	margin: 0;
+	
+	width: 60px;
+	background-color: aqua;
+	height: 30px;
+}
+.boxp33{
+	text-align: center;
+	color: white;
+	background-color: black;
+	
+}
+.boxp333{
+	text-align: center;
+	color: white;
+	background-color: green;
+}
+.yxkbody111img{
+	float: left;
+	background-image: url("../cs/tb.jpg");
+	background-size: cover;
+	width: 30px;
+	height: 30px;
+	
+}
+.jiacu{
+	
+	font-weight: bold;
+	
+}
+.scx{
+	text-decoration: line-through;
+}
